@@ -1,0 +1,12 @@
+.sidebar{
+    position: fixed;
+    background-color: rgb(129, 39, 39);
+    top: 55px;
+    bottom: 50px;
+    left: 0;
+    width: 75px;
+}
+.sidebar-link{
+background-color: rgb(110, 67, 67);
+height: 76px;
+}
